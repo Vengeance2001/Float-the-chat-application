@@ -1,11 +1,11 @@
-![image](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/f106f280-a11c-4f15-8b9b-c10dbc00ef67)# Float-the-chat-application
-
-
+#Float the MERN STACK chat application
 This is a full-stack chat application built using the MERN stack, consisting of MongoDB, Express.js, React.js, and Node.js. The application allows users to create accounts, log in securely, and engage in real-time chat with other users.
 
-![image](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/e815abc1-7e40-4069-8699-d5ba311914da)
+![Screenshot 2024-04-06 163001](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/f9fd29bd-90e6-4fb7-b976-75e6788cdd92)
+![Screenshot 2024-04-06 162920](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/2dd4e5cf-013d-4b20-8dbb-05d9cc16be9c)
+![Screenshot 2024-04-06 162909](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/b7d1576f-1d55-4349-bbee-195d54d7cbfc)
 
-![image](https://github.com/Vengeance2001/Float-the-chat-application/assets/120655373/12ddd62a-e7e5-4040-abc8-191a6a32526b)
+
 
 
 
